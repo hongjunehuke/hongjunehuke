@@ -21,19 +21,6 @@ Here are some ideas to get you started:
 * I major in software.
 * I major in information protection as a minor.
 ---
-# The techniques that I can use
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-</div>
-* What I study recently : C++,Data structure,information protection skills
----
 # What I experienced
 - 2021.05 ~ 2021.06
 Toy project 
@@ -45,3 +32,14 @@ Toy project
 < Recommend Recipe >
 * recommend recipe for those who can't make decisions easily.
 * with Java, GUI(swing,awt packages)
+---
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+</div>
