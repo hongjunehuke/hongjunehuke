@@ -23,12 +23,9 @@
  > 
  > with Java, GUI(swing,awt packages)
 ---
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms7802">  
   ![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)
 ---
-<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms7802">  
- -->
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms7802">  
 <div align=center><h1>🛠 Tech Stack </h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
