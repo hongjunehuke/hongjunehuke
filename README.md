@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 # The techniques that I can use
 * skills that I use
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=C++&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 * What I study recently : C++,Data structure,information protection skills
 ---
 # What I experienced
