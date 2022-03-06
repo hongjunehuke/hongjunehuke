@@ -11,6 +11,7 @@
  > > "project"
  >
  > Take the data and calculate the average, minimum, variance, and standard deviation to get the objective star rates.
+ > 
  > for prevents black consumers.
  > 
  > with C language
