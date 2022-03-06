@@ -8,7 +8,9 @@
 ## 🔍 what I experienced
 ###  More objective rating calculator
  > >2021.05 ~ 2021.06
- > 
+ >
+ > mini project
+ >
  > Get the data and calculate the mean, minimum value, variance, and standard deviation.
  >
  > for prevents black consumers.
@@ -17,7 +19,9 @@
  
 ###  Recommend Recipe 
  > >2022.02.09 ~ 2022.02.27
- > 
+ >
+ > mini project
+ >
  > recommend recipe for those who can't make decisions easily.
  > 
  > with Java, GUI(swing,awt packages)
