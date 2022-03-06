@@ -10,8 +10,7 @@
  > >2021.05 ~ 2021.06
  > > "project"
  >
- > Get the data and calculate the mean, minimum value, variance, and standard deviation.
- >
+ > Take the data and calculate the average, minimum, variance, and standard deviation to calculate the objective score.
  > for prevents black consumers.
  > 
  > with C language
