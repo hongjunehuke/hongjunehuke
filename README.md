@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 -->
 ---
 ### About Me
-> My name is June Hyeok.
-> I'm attending Soongsil University.
-> I major in software.
-> I major in information protection as a minor.
+* My name is June Hyeok.
+* I'm attending Soongsil University.
+* I major in software.
+* I major in information protection as a minor.
 
-### What I experienced
-#  More objective rating calculator
-
+## What I experienced
+###  More objective rating calculator
  > 2021.05 ~ 2021.06
  > 
- > for delivery service
+ > Get the data and calculate the mean, minimum value, variance, and standard deviation.
+ >
+ > for prevents black consumers.
  > 
  > with C language
  
-#  Recommend Recipe 
-
+###  Recommend Recipe 
  > 2022.02.09 ~ 2022.02.27
  > 
  > recommend recipe for those who can't make decisions easily.
