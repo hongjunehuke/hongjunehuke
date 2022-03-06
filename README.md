@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-## <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=00A98F"/>
+# <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=00A98F"/>
 * My name is June Hyeok.
 * I'm attending Soongsil University.
 * I major in software.
 * I major in information protection as a minor.
 ---
-## The techniques that I can use
+# The techniques that I can use
 * skills that I use
 - <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=007396"/>
 - <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=A8B9CC"/>
 - <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=00599C"/>
 * What I study recently : C++,Data structure,information protection skills
 ---
-## What I experienced
-# 2021.05 ~ 2021.06
+# What I experienced
+- 2021.05 ~ 2021.06
 Toy project 
 < More objective rating calculator> 
 * for delivery service 
 * with C language
-# 2022.02.09 ~ 2022.02.27
+- 2022.02.09 ~ 2022.02.27
 Toy project
 < Recommend Recipe >
 * recommend recipe for those who can't make decisions easily.
