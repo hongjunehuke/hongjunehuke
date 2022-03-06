@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 ---
 # What I experienced
 - 2021.05 ~ 2021.06
-**< More objective rating calculator> 
+* [ More objective rating calculator ] 
 * for delivery service 
 * with C language
 - 2022.02.09 ~ 2022.02.27
-Toy project
-< Recommend Recipe >
+* [ Recommend Recipe ]
 * recommend recipe for those who can't make decisions easily.
 * with Java, GUI(swing,awt packages)
 ---
