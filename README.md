@@ -3,9 +3,7 @@
 ## 😎 about Me
 * My name is June Hyeok.
 * I'm attending Soongsil University.
-* I major in software. Also major in information protection as a minor.
-<!-- * I major in information protection as a minor. -->
-
+* I major in software. I major in information protection as a minor.
 ## what I experienced
 ###  More objective rating calculator
  > >2021.05 ~ 2021.06
