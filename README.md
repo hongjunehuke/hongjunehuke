@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ---
 # The techniques that I can use
 * skills that I use
-- <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=007396"/>
-- <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=A8B9CC"/>
-- <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=00599C"/>
+- <img src="https://img.shields.io/badge/Java-black?style=flat&logo=Java&logoColor=007396"/>
+- <img src="https://img.shields.io/badge/C-black?style=flat&logo=C&logoColor=A8B9CC"/>
+- <img src="https://img.shields.io/badge/c++-white?style=flat&logo=C++&logoColor=00599C"/>
 * What I study recently : C++,Data structure,information protection skills
 ---
 # What I experienced
