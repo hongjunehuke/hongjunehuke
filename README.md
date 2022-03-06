@@ -1,29 +1,14 @@
 ### Hi Welcome to Hong's Github
 
-<!--
-**hongjunehuke/hongjunehuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-### About Me
+## 😎 about Me
 * My name is June Hyeok.
 * I'm attending Soongsil University.
 * I major in software.
 * I major in information protection as a minor.
 
-## What I experienced
+## what I experienced
 ###  More objective rating calculator
- > 2021.05 ~ 2021.06
+ > >2021.05 ~ 2021.06
  > 
  > Get the data and calculate the mean, minimum value, variance, and standard deviation.
  >
@@ -32,7 +17,7 @@ Here are some ideas to get you started:
  > with C language
  
 ###  Recommend Recipe 
- > 2022.02.09 ~ 2022.02.27
+ > >2022.02.09 ~ 2022.02.27
  > 
  > recommend recipe for those who can't make decisions easily.
  > 
