@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > I'm attending Soongsil University.
 > I major in software.
 > I major in information protection as a minor.
----
+
 # What I experienced
  < More objective rating calculator >
  ------------------------------------
