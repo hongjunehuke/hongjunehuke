@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-# <img src="https://img.shields.io/badge/Me-00A98F?style=flat&logo=Me&logoColor=00A98F"/>
+# About Me
 * My name is June Hyeok.
 * I'm attending Soongsil University.
 * I major in software.
