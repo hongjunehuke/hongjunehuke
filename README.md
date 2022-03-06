@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  > with Java, GUI(swing,awt packages)
 ---
   ![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">  
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lms7802">  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lms7802)](https://solved.ac/lsm7802)
 
 
