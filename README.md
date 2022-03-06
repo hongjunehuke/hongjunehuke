@@ -33,6 +33,8 @@ Toy project
 * recommend recipe for those who can't make decisions easily.
 * with Java, GUI(swing,awt packages)
 ---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lms7802)](https://solved.ac/lsm7802)
+---
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
