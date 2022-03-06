@@ -27,6 +27,7 @@ Here are some ideas to get you started:
  > 2021.05 ~ 2021.06
  > 
  > for delivery service
+ > 
  > with C language
  
   Recommend Recipe 
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
  > 2022.02.09 ~ 2022.02.27
  > 
  > recommend recipe for those who can't make decisions easily.
+ > 
  > with Java, GUI(swing,awt packages)
 ---
 <div align=center><h1>🔩 Baekjoon </h1></div>
