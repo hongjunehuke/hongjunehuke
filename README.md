@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-# <img src="https://img.shields.io/badge/Me-white?style=flat&logo=Me&logoColor=00A98F"/>
+# <img src="https://img.shields.io/badge/Me-00A98F?style=flat&logo=Me&logoColor=00A98F"/>
 * My name is June Hyeok.
 * I'm attending Soongsil University.
 * I major in software.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 # The techniques that I can use
 * skills that I use
-<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/C-black?style=flat&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/c++-white?style=flat&logo=C++&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=C++&logoColor=00599C"/>
 * What I study recently : C++,Data structure,information protection skills
 ---
 # What I experienced
