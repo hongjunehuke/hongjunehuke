@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 > I major in information protection as a minor.
 
 ### What I experienced
-  More objective rating calculator
- ------------------------------------
+#  More objective rating calculator
+
  > 2021.05 ~ 2021.06
  > 
  > for delivery service
  > 
  > with C language
  
-  Recommend Recipe 
- --------------------
+#  Recommend Recipe 
+
  > 2022.02.09 ~ 2022.02.27
  > 
  > recommend recipe for those who can't make decisions easily.
