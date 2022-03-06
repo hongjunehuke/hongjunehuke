@@ -9,7 +9,7 @@
 ###  More objective rating calculator
  > >2021.05 ~ 2021.06
  >
- > mini project
+ > >mini project
  >
  > Get the data and calculate the mean, minimum value, variance, and standard deviation.
  >
@@ -20,7 +20,7 @@
 ###  Recommend Recipe 
  > >2022.02.09 ~ 2022.02.27
  >
- > mini project
+ > >mini project
  >
  > recommend recipe for those who can't make decisions easily.
  > 
