@@ -38,9 +38,8 @@ Here are some ideas to get you started:
  > 
  > with Java, GUI(swing,awt packages)
 ---
-<div align=center>
   ![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lms7802)](https://solved.ac/lsm7802)
-</div>
+
 
 <div align=center><h1>🛠 Tech Stack </h1></div>
 <div align=center> 
