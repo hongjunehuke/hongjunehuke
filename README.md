@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### What I experienced
   More objective rating calculator
  ------------------------------------
- > 2021.05 ~ 2021.06
+ > 2021.05 ~ 2021.06"\n"
  > for delivery service 
  > with C language
  
