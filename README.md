@@ -5,7 +5,7 @@
 * I'm attending Soongsil University.
 * I major in software.
 * I major in information protection as a minor.
-## what I experienced
+## 🔍 what I experienced
 ###  More objective rating calculator
  > >2021.05 ~ 2021.06
  > 
