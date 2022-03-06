@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 -->
 ---
 # About Me
-* My name is June Hyeok.
-* I'm attending Soongsil University.
-* I major in software.
-* I major in information protection as a minor.
+> My name is June Hyeok.
+> I'm attending Soongsil University.
+> I major in software.
+> I major in information protection as a minor.
 ---
 # What I experienced
  < More objective rating calculator >
- ====================================
+ ------------------------------------
  > 2021.05 ~ 2021.06
- >  > for delivery service 
- >  >  > with C language
+ > for delivery service 
+ > with C language
  
  < Recommend Recipe >
- ====================
+ --------------------
  > 2022.02.09 ~ 2022.02.27
- >  > recommend recipe for those who can't make decisions easily.
- >  >  > with Java, GUI(swing,awt packages)
+ > recommend recipe for those who can't make decisions easily.
+ > with Java, GUI(swing,awt packages)
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lms7802)](https://solved.ac/lsm7802)
 ---
