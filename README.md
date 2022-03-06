@@ -31,8 +31,8 @@ Here are some ideas to get you started:
   Recommend Recipe 
  --------------------
  > 2022.02.09 ~ 2022.02.27
- > recommend recipe for those who can't make decisions easily.
- > with Java, GUI(swing,awt packages)
+ >  recommend recipe for those who can't make decisions easily.
+ >  with Java, GUI(swing,awt packages)
 ### my Baekjoon Note
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lms7802)](https://solved.ac/lsm7802)
 
