@@ -33,6 +33,8 @@ Toy project
 * recommend recipe for those who can't make decisions easily.
 * with Java, GUI(swing,awt packages)
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunehuke&layout=compack&theme=dark)
+---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lms7802)](https://solved.ac/lsm7802)
 ---
 <div align=center><h1>📚 STACKS</h1></div>
