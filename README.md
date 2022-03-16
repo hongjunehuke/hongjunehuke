@@ -6,7 +6,6 @@
 * I major in software.
 * I major in information protection as a minor.
 ## 🔍 what I experienced
- > 2021.05 ~ 2021.06
 ###  More objective rating calculator  
  > > 2021.05 ~ 2021.06
  > Toy project
