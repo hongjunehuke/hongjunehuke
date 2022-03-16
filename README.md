@@ -6,15 +6,17 @@
 * I major in software.
 * I major in information protection as a minor.
 ## 🔍 what I experienced
-###  More objective rating calculator
- > > 2021.05 ~ 2021.06  
- > > Toy project
+ > 2021.05 ~ 2021.06
+###  More objective rating calculator  
+ > Toy project
+ >
  > Take the data and calculate the average, minimum, variance, and standard deviation to get the objective star rates.
  > 
  > for prevents black consumers.
  > 
  > with C language
  
+ > 2022.02.09 ~ 2022.02.27
 ###  Recommend Recipe 
  > > 2022.02.09 ~ 2022.02.27
  > > Toy project
