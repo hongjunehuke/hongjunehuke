@@ -8,9 +8,7 @@
 ## 🔍 what I experienced
 ###  More objective rating calculator
  > > 2021.05 ~ 2021.06  
-
  > > Toy project
- > 
  > Take the data and calculate the average, minimum, variance, and standard deviation to get the objective star rates.
  > 
  > for prevents black consumers.
@@ -18,8 +16,8 @@
  > with C language
  
 ###  Recommend Recipe 
- > >2022.02.09 ~ 2022.02.27
- > >Toy project
+ > > 2022.02.09 ~ 2022.02.27
+ > > Toy project
  >
  > recommend recipe for those who can't make decisions easily.
  > 
@@ -27,7 +25,7 @@
 
 ### AhnLab SEM - Java class
  > > 2022.03.19 ~ 2022.04.23
- > >  Study program (주)안랩 주최.후원
+ > > Participate in a program (주)안랩 주최.후원 - AnhLab SEM
  
 ---
   ![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)
