@@ -16,7 +16,7 @@
  > 
  > with C language
  
-###  Recommend Recipe 
+###  Recommend Recipe program
  > > 2022.02.09 ~ 2022.02.27
  > Toy project
  >
