@@ -29,7 +29,7 @@
  > > 2022.03.19 ~ 2022.04.23
  > Participate in a program 
  > 
- > (주)안랩 주최.후원_AnhLab SEM
+ > (주)안랩 주최.후원 AnhLab SEM
  
 ---
   ![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)
