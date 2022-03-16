@@ -7,9 +7,10 @@
 * I major in information protection as a minor.
 ## 🔍 what I experienced
 ###  More objective rating calculator
- > > 2021.05 ~ 2021.06
- > >  Toy project
- >
+ > > 2021.05 ~ 2021.06  
+
+ > > Toy project
+ > 
  > Take the data and calculate the average, minimum, variance, and standard deviation to get the objective star rates.
  > 
  > for prevents black consumers.
