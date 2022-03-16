@@ -17,7 +17,6 @@
  > 
  > with C language
  
- > 2022.02.09 ~ 2022.02.27
 ###  Recommend Recipe 
  > > 2022.02.09 ~ 2022.02.27
  > Toy project
@@ -28,7 +27,9 @@
 
 ### AhnLab SEM - Java class
  > > 2022.03.19 ~ 2022.04.23
- > Participate in a program (주)안랩 주최.후원_AnhLab SEM
+ > Participate in a program 
+ > 
+ > (주)안랩 주최.후원_AnhLab SEM
  
 ---
   ![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)
