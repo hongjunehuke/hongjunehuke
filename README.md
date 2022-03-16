@@ -2,7 +2,7 @@
 
 ## 😎 about me
 * My name is June Hyeok.
-* I'm attending Soongsil University.
+* I'm attending Soongsil University. (2020 ~ )
 * I major in software.
 * I major in information protection as a minor.
 ## 🔍 what I experienced
