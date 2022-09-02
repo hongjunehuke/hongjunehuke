@@ -8,8 +8,6 @@
   <br>
 </div>
 
- ![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)
-
 ## 😎 about me
 * My name is June Hyeok.
 * I'm attending Soongsil University. (2020 ~ )
@@ -45,3 +43,4 @@
  
 ---
 
+![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)
