@@ -1,4 +1,5 @@
 ### Hi Welcome to Hong's Github
+## https://velog.io/@lms7802
 <div align=center><h1>🛠 Tech Stack </h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
@@ -40,7 +41,3 @@
  > Hair-Implant Repository
  > 
  > iOS project use swift
- 
----
-
-![Hong's github stats](https://github-readme-stats.vercel.app/api?username=hongjunehuke&show_icons=true&theme=swift)
