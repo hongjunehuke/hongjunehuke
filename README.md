@@ -11,30 +11,10 @@
 
 ## 😎 about me
 * My name is June Hyeok.
-* I'm attending Soongsil University. (2020 ~ )
-* I major in software.
-* I major in information protection as a minor.
+* SSU soft_21
+* UMC 3기_iOS
 ## 🔍 what I experienced
 ###  More objective rating calculator  
- > > 2021.05 ~ 2021.06
- > 
- > Toy project
- >
- > Take the data and calculate the average, minimum, variance, and standard deviation to get the objective star rates.
- > 
- > for prevents black consumers.
- > 
- > with C language
- 
-###  Recommend Recipe program
- > > 2022.02.09 ~ 2022.02.27
- > 
- > Toy project
- >
- > recommend recipe for those who can't make decisions easily.
- > 
- > with Java, GUI(swing,awt packages)
-
 ### todo_iOS
  > > 2022.01 ~ until now
  > 
