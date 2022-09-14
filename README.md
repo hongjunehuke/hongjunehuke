@@ -11,7 +11,7 @@
 ## 소개
 * 숭실대학교 소프트웨어학부 21학번
 
-* iOS 파트 공부하고 있는 학생 개발자입니다.
+* iOS 공부하고 있는 학생 개발자입니다.
  
 ## 정보
 * SSUPERPOWER _함께 성장하는 사람들의 모임 https://jwchoi179.notion.site/Crew-Study-1bacaae79b2c4050a4f1dee423a8b2bc
