@@ -25,6 +25,3 @@ https://jwchoi179.notion.site/Crew-Study-1bacaae79b2c4050a4f1dee423a8b2bc
 
 ### Java GUI 대학생을 위한 메뉴 추천 프로그램 개발 :
 https://github.com/jwchoi179/2022-Winter-Java-TeamProject
-
-## 좌우명
-"즐기며 치열하게 도전하자" 
