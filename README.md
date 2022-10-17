@@ -14,8 +14,12 @@
 iOS 공부하고 있는 학생 개발자입니다.
 
 ## 활동 이력
-### 22SSU_devcamp iOS 자유주제 개발 :
+### 정신질환 처방에 근거를 제공하는 하루기록 서비스 :
 https://github.com/Soongsil-Developers/22sdc-ssu-free-subject-ios
+
+
+### Velog 를 모바일로 보여주며 구독과 추천해주는 서비스 :
+https://github.com/hongjunehuke/VelogInMobile
 
 ### UMC 3기 iOS 파트 활동 중 :
 https://instagram.com/ssu_makeus_challenge?igshid=NmNmNjAwNzg=
