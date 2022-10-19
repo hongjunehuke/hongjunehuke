@@ -1,7 +1,13 @@
 ## https://velog.io/@lms7802
-<div align=center><h1>🛠 Tech Stack </h1></div>
+
+## 소개
+숭실대학교 소프트웨어학부 21학번
+
+iOS 공부하고 있는 학생 개발자입니다.
+
 # 🌱Skills
 ### Platforms & Languages
+<div align=center><h1>🛠 Tech Stack </h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -9,11 +15,6 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
 </div>
-
-## 소개
-숭실대학교 소프트웨어학부 21학번
-
-iOS 공부하고 있는 학생 개발자입니다.
 
 ## 프로젝트
 ### 정신질환 처방에 근거를 제공하는 하루기록 서비스 : (진행중)
