@@ -19,7 +19,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunehuke)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛠 프로젝트
-### 정신질환 처방에 근거를 제공하는 하루기록 서비스 : (진행중)
+### 정신질환 처방에 근거를 제공하는 환자 기록 서비스 : (진행중)
 #### https://github.com/Soongsil-Developers/22sdc-ssu-free-subject-ios
 
 
