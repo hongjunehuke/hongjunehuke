@@ -4,7 +4,7 @@
 iOS 공부하고 있는 학생 개발자입니다.
 
 # 기술 블로그
-https://velog.io/@lms7802
+### https://velog.io/@lms7802
 
 # 🌱 Skills
 ### Platforms & Languages
@@ -32,3 +32,5 @@ https://jwchoi179.notion.site/Crew-Study-1bacaae79b2c4050a4f1dee423a8b2bc
 
 ### Java GUI 대학생을 위한 메뉴 추천 프로그램 개발 : (종료)
 https://github.com/jwchoi179/2022-Winter-Java-TeamProject
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunehuke)](https://github.com/anuraghazra/github-readme-stats)
