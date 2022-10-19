@@ -7,7 +7,6 @@ iOS 공부하고 있는 학생 개발자입니다.
 
 # 🌱Skills
 ### Platforms & Languages
-<div align=center><h1>🛠 Tech Stack </h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
