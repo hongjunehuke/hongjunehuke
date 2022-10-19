@@ -1,11 +1,12 @@
-## https://velog.io/@lms7802
-
-# 💪소개
+# 💪 소개
 숭실대학교 소프트웨어학부 21학번
 
 iOS 공부하고 있는 학생 개발자입니다.
 
-# 🌱Skills
+# 기술 블로그
+https://velog.io/@lms7802
+
+# 🌱 Skills
 ### Platforms & Languages
 <div align=center>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
@@ -15,7 +16,7 @@ iOS 공부하고 있는 학생 개발자입니다.
   <br>
 </div>
 
-# 🛠프로젝트
+# 🛠 프로젝트
 ### 정신질환 처방에 근거를 제공하는 하루기록 서비스 : (진행중)
 https://github.com/Soongsil-Developers/22sdc-ssu-free-subject-ios
 
