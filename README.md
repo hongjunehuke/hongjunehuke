@@ -15,6 +15,8 @@ iOS 공부하고 있는 학생 개발자입니다.
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
 </div>
+### Most Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunehuke)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🛠 프로젝트
 ### 정신질환 처방에 근거를 제공하는 하루기록 서비스 : (진행중)
@@ -32,5 +34,3 @@ https://jwchoi179.notion.site/Crew-Study-1bacaae79b2c4050a4f1dee423a8b2bc
 
 ### Java GUI 대학생을 위한 메뉴 추천 프로그램 개발 : (종료)
 https://github.com/jwchoi179/2022-Winter-Java-TeamProject
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongjunehuke)](https://github.com/anuraghazra/github-readme-stats)
