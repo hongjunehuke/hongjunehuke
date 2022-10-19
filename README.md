@@ -27,10 +27,10 @@ iOS 공부하고 있는 학생 개발자입니다.
 #### https://github.com/hongjunehuke/VelogInMobile
 
 ### UMC 3기 iOS 파트 활동 중 : (진행중)
-### https://instagram.com/ssu_makeus_challenge?igshid=NmNmNjAwNzg=
+#### https://instagram.com/ssu_makeus_challenge?igshid=NmNmNjAwNzg=
 
 ### SSUPER-POWER-Developer 활동 중 : (진행중)
-### https://jwchoi179.notion.site/Crew-Study-1bacaae79b2c4050a4f1dee423a8b2bc
+#### https://jwchoi179.notion.site/Crew-Study-1bacaae79b2c4050a4f1dee423a8b2bc
 
 ### Java GUI 대학생을 위한 메뉴 추천 프로그램 개발 : (종료)
-### https://github.com/jwchoi179/2022-Winter-Java-TeamProject
+#### https://github.com/jwchoi179/2022-Winter-Java-TeamProject
