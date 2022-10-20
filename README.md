@@ -23,7 +23,7 @@
 #### https://github.com/Soongsil-Developers/22sdc-ssu-free-subject-ios
 
 
-### Velog 를 모바일로 보여주며 구독과 추천해주는 서비스 : (진행중)
+### Velog 를 모바일로 보여주며 구독과 추천 기능을 제고하는 서비스 : (진행중)
 #### https://github.com/hongjunehuke/VelogInMobile
 
 ### UMC 3기 iOS 파트 활동 중 : (진행중)
