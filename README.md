@@ -24,7 +24,7 @@
 
 
 ### Velog 를 모바일로 보여주며 구독과 추천 기능을 제하는 서비스 : (진행중)
-#### https://github.com/hongjunehuke/VelogInMobile
+#### https://github.com/SSUDevelog/VelogInMobile
 
 ### UMC 3기 iOS 파트 활동 중 : (진행중)
 #### https://instagram.com/ssu_makeus_challenge?igshid=NmNmNjAwNzg=
