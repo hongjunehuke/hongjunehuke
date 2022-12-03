@@ -1,9 +1,6 @@
 # 🦦 소개
 #### 숭실대학교 소프트웨어학부 21학번, iOS 공부하고 있는 학생 개발자입니다.
 
-# 🔩 기술 블로그
-### https://velog.io/@lms7802
-
 # 🌱 Skills
 ### Platforms & Languages
 <div align=left>
