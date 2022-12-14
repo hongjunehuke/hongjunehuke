@@ -21,7 +21,7 @@
 
 
 ### 정신질환 처방에 근거를 제공하는 환자 기록 서비스 : (진행중)
-#### https://github.com/Soongsil-Developers/22sdc-ssu-free-subject-ios
+#### https://github.com/Team-BokseulBokseul/BokseulBokseul-iOS
 
 ### To Do : (진행중)
 #### https://github.com/Nemomori/Hair-Implant
