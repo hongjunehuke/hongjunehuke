@@ -1,7 +1,7 @@
-## 소개
+## 😄 소개
 숭실대학교 소프트웨어학부 21학번, iOS 공부하고 있는 학생 개발자입니다.
 
-## 프로젝트
+## 🪵 프로젝트
 ### Fairer
 집안일을 나누고 관리하는 서비스
 
@@ -23,7 +23,7 @@ Velog를 모바일로 보여주며 구독과 추천 기능을 제공하는 서�
 
 https://github.com/SSUDevelog/VelogInMobile
 
-## Skills
+## 🛠 Skills
 <div align=left>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=UIKit&logoColor=white">
