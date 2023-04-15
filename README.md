@@ -12,7 +12,7 @@ https://github.com/fairer-iOS/fairer-iOS
 ### Fit-i
 학생 트레이너와 고객들을 매칭 시켜주는 서비스
 
-2022.12 ~ 2023.02 (1차 개발 마무리)
+2022.12 ~ 2023.02 (1차 개발 마무리, 테스트 플라이트 배포)
 
 https://github.com/FIT-I/FIT-I-iOS
 
