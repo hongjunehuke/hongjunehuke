@@ -15,7 +15,7 @@ https://github.com/fairer-iOS/fairer-iOS
 
 2023.01 ~ 진행중
 
-##🏅 Award
+## 🏅 Award
 ### 숭실대 SW/DT 새싹(SeSAC) 경진대회
     숭실대 총장상 수상
 
