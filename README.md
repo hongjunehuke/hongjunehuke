@@ -22,5 +22,5 @@ https://github.com/hongjunehuke/VelogOniOS
 
 숭실대 총장상 수상
 
-(iOS 개발 참여)
+iOS 개발 참여
 
