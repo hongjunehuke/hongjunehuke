@@ -25,5 +25,7 @@ https://github.com/fairer-iOS/fairer-iOS
 ### 💪 Activity
 
 YourSSU - iOS developer (2023.04~ )
+
 SOPT - 32기 iOS YB (2023.03 ~ ) 
+
 UMC Soongsil - 3rd iOS (2022.08 ~ 2023.01)    
