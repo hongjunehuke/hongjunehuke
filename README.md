@@ -1,4 +1,4 @@
-### 🪵 Main Project
+## 🪵 Main Project
 
 ### Velog On iOS
 
@@ -18,7 +18,7 @@ https://github.com/fairer-iOS/fairer-iOS
 
 2023.01 ~ 진행중
 
-### 💪 Activity
+## 💪 Activity
 
 YourSSU - iOS developer (2023.04~ )
 
@@ -26,6 +26,6 @@ SOPT - 32기 iOS YB (2023.03 ~ )
 
 UMC Soongsil - 3rd iOS (2022.08 ~ 2023.01)    
 
-### 🏅 Award
+## 🏅 Award
 
 숭실대 SW/DT 새싹(SeSAC) 경진 대회 (2023.12) - 숭실대 총장상 수상
