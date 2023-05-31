@@ -22,7 +22,7 @@ https://github.com/fairer-iOS/fairer-iOS
 
 YourSSU - iOS developer (2023.04~ )
 
-SOPT - 32기 iOS YB (2023.03 ~ ) 
+IT 연합 창업동아리 [SOPT](https://sopt.org) 32nd - iOS (2023.03~)
 
 UMC Soongsil - 3rd iOS (2022.08 ~ 2023.01)    
 
