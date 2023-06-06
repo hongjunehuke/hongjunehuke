@@ -20,11 +20,11 @@ https://github.com/fairer-iOS/fairer-iOS
 
 ## 💪 Activity
 
-YourSSU - iOS developer (2023.04~ )
+숭실대학교 중앙동아리 YourSSU iOS developer (2023.04~ )
 
-IT 연합 창업동아리 [SOPT](https://sopt.org) 32nd - iOS (2023.03~)
+IT 연합 창업동아리 [SOPT](https://sopt.org) 32기 iOS파트 (2023.03~)
 
-UMC Soongsil - 3rd iOS (2022.08 ~ 2023.01)    
+UMC Soongsil 3기 iOS파트 (2022.08 ~ 2023.01)    
 
 ## 🏅 Award
 
