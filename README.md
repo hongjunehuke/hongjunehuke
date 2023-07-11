@@ -8,7 +8,7 @@
 
 ## 🪵 Main Project
 
-### Velog On iOS
+### EasyVel - 이지벨
 
 https://github.com/hongjunehuke/VelogOniOS
 
