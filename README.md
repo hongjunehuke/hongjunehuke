@@ -10,11 +10,15 @@
 
 ### EasyVel - 이지벨
 
-https://github.com/hongjunehuke/VelogOniOS
+<img width="168" alt="스크린샷 2023-07-12 오후 8 45 12" src="https://github.com/hongjunehuke/hongjunehuke/assets/83629193/6bccb9db-3791-4283-8ead-2cfbe2d877ab">
+
+### App Store : https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B2%A8-easyvel/id6448953485
+
+### GitHub: https://github.com/hongjunehuke/VelogOniOS
 
 기술 공유를 편리하게, EasyVel
 
-2023.05 ~ (리팩토링)
+2023.05 ~ 2023.07 (1.0.0 출시)
 
 2022.08 ~ 2022.12 (1차 개발 마무리)
 
