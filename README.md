@@ -8,9 +8,7 @@
 
 ## 🪵 Main Project
 
-### EasyVel - 이지벨
-
-기술 공유를 편리하게, EasyVel
+### EasyVel - 기술 공유를 편리하게, 이지벨
 
 <img width="168" alt="스크린샷 2023-07-12 오후 8 45 12" src="https://github.com/hongjunehuke/hongjunehuke/assets/83629193/6bccb9db-3791-4283-8ead-2cfbe2d877ab">
 
