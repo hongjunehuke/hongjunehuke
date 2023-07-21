@@ -4,11 +4,11 @@
 
 ### Main Projects
 
-- EasyVel - 모바일 앱으로 즐기는 Velog ( [Github](https://github.com/hongjunehuke/VelogOniOS), [🍎 App Store](https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B2%A8-easyvel/id6448953485) )
+- EasyVel - 모바일 앱으로 즐기는 Velog ( [Github](https://github.com/hongjunehuke/VelogOniOS), [🍎 App Store](https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B2%A8-easyvel/id6448953485) ) - iOS 리드 개발로 참여
   
-- Fairer - 집안일을 나누고 관리하는 서비스 ( [Github](https://github.com/fairer-iOS/fairer-iOS) )
+- Fairer - 집안일을 나누고 관리하는 서비스 ( [Github](https://github.com/fairer-iOS/fairer-iOS) ) - iOS 개발 참여
 
-- Pophory - 주머니 속 잃어버릴 걱정 없는 모바일 네컷앨범 서비스 ( [Github](https://github.com/TeamPophory/pophory-iOS), [🍎 App Store](https://apps.apple.com/kr/app/pophory/id6451004060) )
+- Pophory - 주머니 속 잃어버릴 걱정 없는 모바일 네컷앨범 서비스 ( [Github](https://github.com/TeamPophory/pophory-iOS), [🍎 App Store](https://apps.apple.com/kr/app/pophory/id6451004060) ) - iOS 개발 참여
 
 ### Activity
 
