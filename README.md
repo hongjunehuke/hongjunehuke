@@ -2,7 +2,9 @@
 
 안녕하세요 iOS 학생 개발자 홍준혁입니다.
 
-## Main Projects
+### Main Projects
+
+--------------
 
 EasyVel - 모바일 앱으로 즐기는 Velog
 
@@ -19,6 +21,8 @@ Fairer - 집안일을 나누고 관리하는 서비스
 Pophory - 주머니 속 잃어버릴 걱정 없는 모바일 네컷앨범 서비스 
 
 [Github](https://github.com/TeamPophory/pophory-iOS), [🍎 App Store](https://apps.apple.com/kr/app/pophory/id6451004060)
+
+--------------
 
 ### Activity
 
