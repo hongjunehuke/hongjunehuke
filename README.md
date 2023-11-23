@@ -6,7 +6,7 @@
 
 EasyVel - 모바일 앱으로 즐기는 Velog([Github](https://github.com/SSUDevelog/EasyVel-iOS), [📄 회고록](https://preyhong.tistory.com/m/16), [🍎 App Store](https://apps.apple.com/kr/app/%EC%9D%B4%EC%A7%80%EB%B2%A8-easyvel/id6448953485))
 
-Fairer - 집안일을 나누고 관리하는 서비스([Github](https://github.com/fairer-iOS/fairer-iOS), [🍎 App Store](https://apps.apple.com/kr/app/%ED%8E%98%EC%96%B4%EB%9F%AC-fairer/id6451104062))
+Fairer - 집안일을 나누고 관리하는 서비스([Github](https://github.com/fairer-iOS/fairer-iOS), [📄 회고록](https://preyhong.tistory.com/m/19), [🍎 App Store](https://apps.apple.com/kr/app/%ED%8E%98%EC%96%B4%EB%9F%AC-fairer/id6451104062))
 
 Pophory - 주머니 속 잃어버릴 걱정 없는 모바일 네컷앨범 서비스([Github](https://github.com/TeamPophory/pophory-iOS), [🍎 App Store](https://apps.apple.com/kr/app/pophory/id6451004060))
 
