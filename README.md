@@ -10,6 +10,10 @@ Fairer - 집안일을 나누고 관리하는 서비스([Github](https://github.c
 
 Pophory - 주머니 속 잃어버릴 걱정 없는 모바일 네컷앨범 서비스([Github](https://github.com/TeamPophory/pophory-iOS), [🍎 App Store](https://apps.apple.com/kr/app/pophory/id6451004060))
 
+## Study
+
+Swift in depth 읽고 정리 [Github]()
+
 ## Activity
 
 숭실대학교 중앙동아리 [YourSSU](https://intro.yourssu.com/) iOS developer ( 2023.04 ~ )
