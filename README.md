@@ -12,7 +12,7 @@ Pophory - 주머니 속 잃어버릴 걱정 없는 모바일 네컷앨범 서비
 
 ## Study
 
-Swift in depth 읽고 정리 [Github]()
+Swift in depth 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDepth)
 
 ## Activity
 
