@@ -10,10 +10,6 @@ Fairer - 집안일을 나누고 관리하는 서비스([Github](https://github.c
 
 Pophory - 주머니 속 잃어버릴 걱정 없는 모바일 네컷앨범 서비스([Github](https://github.com/TeamPophory/pophory-iOS), [🍎 App Store](https://apps.apple.com/kr/app/pophory/id6451004060))
 
-## Study
-
-Swift in depth 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDepth)
-
 ## Activity
 
 숭실대학교 중앙동아리 [YourSSU](https://intro.yourssu.com/) iOS developer ( 2023.04 ~ )
@@ -21,6 +17,10 @@ Swift in depth 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDe
 IT 연합 창업동아리 [SOPT](https://sopt.org) 32기 iOS파트 YB ( 2023.03 ~ 2023.07 )
 
 [UMC](https://www.makeus.in/umc) Soongsil 3기 iOS 파트원, 4기 iOS 파트장 ( 2022.08 ~ 2023.01 )    
+
+## Study
+
+[Swift in depth]() 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDepth)
 
 ## Award
 
