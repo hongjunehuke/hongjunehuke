@@ -20,7 +20,7 @@ IT 연합 창업동아리 [SOPT](https://sopt.org) 32기 iOS파트 YB ( 2023.03 
 
 ## Study
 
-[Swift in depth]() 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDepth)
+[Swift in depth](https://www.manning.com/books/swift-in-depth) 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDepth)
 
 ## Award
 
