@@ -22,6 +22,8 @@ IT 연합 창업동아리 [SOPT](https://sopt.org) 32기 iOS파트 YB ( 2023.03 
 
 [Swift in depth](https://www.manning.com/books/swift-in-depth) 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDepth)
 
+[pro multithreading and memory management for ios and os x](https://www.amazon.com/Pro-Multithreading-Memory-Management-iOS/dp/1430241160) 읽고 정리: [Github]()
+
 ## Award
 
 숭실대 SW/DT 새싹(SeSAC) 경진 대회 ( 2022.12 ) - 숭실대 총장상 수상
