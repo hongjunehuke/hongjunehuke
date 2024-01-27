@@ -22,7 +22,7 @@ IT 연합 창업동아리 [SOPT](https://sopt.org) 32기 iOS파트 YB ( 2023.03 
 
 [Swift in depth](https://www.manning.com/books/swift-in-depth) 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDepth)
 
-[pro multithreading and memory management for ios and os x](https://www.amazon.com/Pro-Multithreading-Memory-Management-iOS/dp/1430241160) 읽고 정리: [Github]()
+[pro multithreading and memory management for ios and os x](https://www.amazon.com/Pro-Multithreading-Memory-Management-iOS/dp/1430241160) 읽고 정리: [Github](https://github.com/hongjunehuke/pro-multithreading-and-memory-management-for-ios-and-os-x)
 
 ## Award
 
