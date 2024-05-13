@@ -1,6 +1,6 @@
 # Junhyeok Hong
 
-안녕하세요 iOS 학생 개발자 홍준혁입니다.
+안녕하세요 학생 개발자 홍준혁입니다.
 
 ## Main Projects
 
