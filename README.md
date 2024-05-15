@@ -18,10 +18,6 @@ IT 연합 창업동아리 [SOPT](https://sopt.org) 32기 iOS파트 YB ( 2023.03 
 
 [UMC](https://www.makeus.in/umc) Soongsil 3기 iOS 파트원, 4기 iOS 파트장 ( 2022.08 ~ 2023.01 )    
 
-## Study
-
-[swift in depth](https://www.manning.com/books/swift-in-depth) 읽고 정리: [Github](https://github.com/hongjunehuke/SwiftInDepth)
-
 ## Award
 
 숭실대 SW/DT 새싹(SeSAC) 경진 대회 ( 2022.12 ) - 숭실대 총장상 수상
